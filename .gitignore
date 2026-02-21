@@ -8,3 +8,7 @@ dist/
 *.key
 .npmrc
 coverage/
+
+# Go
+/mycli
+*.exe
